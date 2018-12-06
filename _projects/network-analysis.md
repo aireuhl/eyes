@@ -8,3 +8,5 @@ slug: ''
 
 ---
 test hello test
+
+![](/uploads/2018/02/17/building2.jpg)
